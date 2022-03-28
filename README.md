@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danilobsilv
 - 👀 I’m interested in learning new programming skills and in improving my own.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python, html and css.
 - 💞️ I’m looking to collaborate on projects that might help me improve my critical and logical sense, and to also help the programming comunity.
 - 📫 You can reach me by sending an e-mail to danilobsilv@gmail.com
 
