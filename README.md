@@ -11,7 +11,7 @@
 - 💼 Currently working in the research and development sector of <a href=https://stem.uea.edu.br>Academia STEM</a>.
 - 👀 Focused on learning and mastering current technologies.
 - 🌱 Currently learning Python, C, HTML5 and CSS.
-- 💞️ Looking to collaborate on projects that might help me improve my critical and logical sense, and to also help the programming comunity.
+- 💞️ Looking to collaborate on projects that might help me improve my critical and logical sense, and also to help the programming comunity.
 
 
 ### 🤵 Soft Skills
