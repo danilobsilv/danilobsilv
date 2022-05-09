@@ -8,7 +8,7 @@
 ### 🙋 About me
 
 - 👨‍🏫 Computer engineering student at <a href=https://www1.uea.edu.br/event.php>Universidade do Estado do Amazonas (UEA)</a>.
-- 💼 Currently working in the research and development sector of the <a href=https://stem.uea.edu.br>Academia STEM</a>.
+- 💼 Currently working in the research and development sector of <a href=https://stem.uea.edu.br>Academia STEM</a>.
 - 👀 Focused on learning and mastering current technologies.
 - 🌱 Currently learning Python, C, HTML5 and CSS.
 - 💞️ Looking to collaborate on projects that might help me improve my critical and logical sense, and to also help the programming comunity.
