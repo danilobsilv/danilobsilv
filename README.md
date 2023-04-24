@@ -50,3 +50,6 @@
 [![Linkedin: Danilo Bruno](https://img.shields.io/badge/-danilobruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)](https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)<br>
 [![Gmail Badge](https://img.shields.io/badge/-danilobsilv@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:danilobsilv@gmail.com)<br>
 [![GitHub Danilo Bruno]( https://img.shields.io/github/followers/danilobsilv?label=follow&style=social)](https://github.com/danilobsilv)
+
+
+![snake gif](https://github.com/danilobsilv/danilobsilv/blob/output/github-contribution-grid-snake.svg)
