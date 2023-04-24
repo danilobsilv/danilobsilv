@@ -1,10 +1,5 @@
 # 👦 Hi, I'm Danilo! 
 
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danilobsilv)](https://github.com/danilobsilv)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)](https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)
-
-
 ### 🙋 About me
 
 - 👨‍🏫 Computer engineering student at <a href=https://www1.uea.edu.br/event.php rel=external target=_blank >Universidade do Estado do Amazonas (UEA)</a>.
