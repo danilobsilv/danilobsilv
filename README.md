@@ -34,7 +34,10 @@
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilobsilv&layout=compact&theme=radical)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobsilv&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobsilv&theme=radical&show_icons=true" />
+</div>
 
 
 ### 💻🧰 Development tools
@@ -42,9 +45,6 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=ED872D)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-<a href="https://github.com/danilobsilv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobsilv&theme=radical&show_icons=true" />
-</a>
 
 
 ### ⚙️ DevOps
