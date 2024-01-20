@@ -34,7 +34,8 @@
 
 
 ### ⚙️ DevOps
-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danilobsilv)](https://github.com/danilobsilv) <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974"><img src="https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" style="max-width: 100%;"></a>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 <h3> :speech_balloon: &nbsp;Talk to me </h3> 
 
