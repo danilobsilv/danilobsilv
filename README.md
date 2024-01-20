@@ -43,8 +43,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ### Talk to me 
-
-![LinkedIn: Danilo Bruno](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+(https://img.shields.io/badge/-kirksahdo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirk-sahdo-a34148189/)](https://www.linkedin.com/in/kirk-sahdo-a34148189/)
+![LinkedIn: Danilo Bruno](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kirk-sahdo-a34148189/)](https://www.linkedin.com/in/kirk-sahdo-a34148189/))
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![GitHub danilobsilv](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
