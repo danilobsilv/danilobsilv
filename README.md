@@ -4,20 +4,7 @@
 
 - 👨‍🏫 Computer engineering student at <a href=https://www1.uea.edu.br/event.php rel=external target=_blank >Universidade do Estado do Amazonas (UEA)</a>.
 - 👀 Focused on learning and mastering current technologies.
-- 🌱 Currently studying Python, Java, JavaScript, HTML5 and CSS, focused on web development, prioritizing back end.
 - 💞️ Looking to collaborate on projects that might help me improve my critical and logical sense, and also to help the programming comunity.
-
-
-### 🤵 Soft Skills
-
-- Communication
-- Time management
-- Problems solution
-- Flexibility and adaptability
-- Deal with pressure
-- Team work
-- Self confidence
-
 
 ### 🚀 Hard Skills
 
