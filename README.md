@@ -20,11 +20,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobsilv&layout=compact&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobsilv&theme=radical&show_icons=true" />
-</div>
-
 
 ###  Development tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -41,6 +36,13 @@
 ###  Versioning
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobsilv&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobsilv&theme=radical&show_icons=true" />
+</div>
+
 
 ### Talk to me 
 [![LinkedIn: Danilo Bruno](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-bruno-da-silva/)
