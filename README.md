@@ -26,8 +26,6 @@
 </div>
 
 
-### 
-
 ###  Development tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -40,14 +38,14 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
-### ⚙️ Versioning
+###  Versioning
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 <h3> :speech_balloon: &nbsp;Talk to me </h3> 
 
 [![Linkedin: Danilo Bruno](https://img.shields.io/badge/-danilobruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)](https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)<br>
-[![Gmail Badge](https://img.shields.io/badge/-danilobsilv@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:danilobsilv@gmail.com)<br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
 [![GitHub Danilo Bruno]( https://img.shields.io/github/followers/danilobsilv?label=follow&style=social)](https://github.com/danilobsilv)
 
 
