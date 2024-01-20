@@ -43,10 +43,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ### Talk to me 
-(https://img.shields.io/badge/-kirksahdo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirk-sahdo-a34148189/)](https://www.linkedin.com/in/kirk-sahdo-a34148189/)
-![LinkedIn: Danilo Bruno](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kirk-sahdo-a34148189/)](https://www.linkedin.com/in/kirk-sahdo-a34148189/))
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub danilobsilv](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Linkedin: Kirk Sahdo](https://img.shields.io/badge/-danilobruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-bruno-da-silva/)](https:/www.linkedin.com/in/danilo-bruno-da-silva/)
+[![Gmail Badge](https://img.shields.io/badge/-ksahdo10@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:ksahdo10@gmail.com)
+[![GitHub Kirk Sahdo]( https://img.shields.io/github/followers/KirkSahdo?label=follow&style=social)](https://github.com/kirksahdo)
 
 
 ![snake gif](https://github.com/danilobsilv/danilobsilv/blob/output/github-contribution-grid-snake.svg)
