@@ -44,8 +44,8 @@
 
 ### Talk to me 
 
-[![Linkedin: Danilo Bruno](https://img.shields.io/badge/-danilobruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)](https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)<br>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
+[![Linkedin: Danilo Bruno](https://img.shields.io/badge/-danilobruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)](https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![GitHub Danilo Bruno]( https://img.shields.io/github/followers/danilobsilv?label=follow&style=social)](https://github.com/danilobsilv)
 
 
