@@ -9,7 +9,7 @@
 ### 🚀 Hard Skills
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=**openjdk**&logoColor=black)
 
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
