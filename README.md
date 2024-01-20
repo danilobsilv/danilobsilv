@@ -1,12 +1,12 @@
 # 👦 Hi, I'm Danilo! 
 
-### 🙋 About me
+###  About me
 
 - 👨‍🏫 Computer engineering student at <a href=https://www1.uea.edu.br/event.php rel=external target=_blank >Universidade do Estado do Amazonas (UEA)</a>.
 - 👀 Focused on learning and mastering current technologies.
 - 💞️ Looking to collaborate on projects that might help me improve my critical and logical sense, and also to help the programming comunity.
 
-### 🚀 Hard Skills
+###  Hard Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -26,11 +26,18 @@
 </div>
 
 
-### 💻🧰 Development tools
+### 
+
+###  Development tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=ED872D)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+
+### Utilities
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
 ### ⚙️ Versioning
