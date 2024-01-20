@@ -42,7 +42,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<h3> :speech_balloon: &nbsp;Talk to me </h3> 
+### Talk to me 
 
 [![Linkedin: Danilo Bruno](https://img.shields.io/badge/-danilobruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)](https://www.linkedin.com/in/danilo-bruno-da-silva-30b917225/)<br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
