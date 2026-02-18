@@ -3,7 +3,7 @@
 ###  About me
 
 - 👨‍🏫 Computer engineering student at <a href=https://www1.uea.edu.br/event.php rel=external target=_blank >Universidade do Estado do Amazonas (UEA)</a>.
-- 👨🏻‍💻 Currently working as software developer at <a href=https://sidia.com>SIDIA</a>
+- 👨🏻‍💻 Currently working as software developer at <a href=https://www.microsoft.com/pt-br>MICROSOFT</a>
 - 👀 Focused on learning and mastering current technologies.
 - 💞️ Looking to collaborate on projects that might help me improve my critical and logical sense, and also to help the programming comunity.
 
